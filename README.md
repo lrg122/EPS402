@@ -1,2 +1,2 @@
 # EPS402
-Statistical Programming: R &amp; SQL
+Statistical Programming:Python (NumPy, Pandas), R &amp; SQL
